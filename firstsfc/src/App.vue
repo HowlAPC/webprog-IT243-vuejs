@@ -7,7 +7,7 @@
 export default {
   data() {
     return {
-      message: 'Mambo Mambo Omatsuri Mambo'
+      message: 'AGEMASEN'
     };
   }
 };
