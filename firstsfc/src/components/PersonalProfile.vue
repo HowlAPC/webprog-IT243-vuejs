@@ -1,6 +1,6 @@
 <template>
   <div class="profile">
-    <img src="images/arro.png" id="arro" alt="down arrow">
+    <img src="/images/arro.png" id="arro" alt="down arrow">
 <div class="container" id="hite">
   <div class="container-fluid mt-3">
     <div class="container faade">
@@ -102,23 +102,23 @@
       <h1>Photo Gallery</h1>
       <div class="row">
         <div class="col-md">
-          <img src="images/gold.jpg" alt="Photo of BGC covered in light, making it look golden">
+          <img src="/images/gold.jpg" alt="Photo of BGC covered in light, making it look golden">
         </div>
 
         <div class="col-md">
-          <img src="images/irl.jpg" alt="Me in real life">
+          <img src="/images/irl.jpg" alt="Me in real life">
         </div>
 
         <div class="col-md">
-          <img src="images/vibe.jpg" alt="An accidental cool view I got while resting">
+          <img src="/images/vibe.jpg" alt="An accidental cool view I got while resting">
         </div>
 
         <div class="col-md">
-          <img src="images/me.jpg" alt="My OC">
+          <img src="/images/me.jpg" alt="My OC">
         </div>
 
         <div class="col-md">
-          <img src="images/vrc.png" alt="Relaxing in VRC">
+          <img src="/images/vrc.png" alt="Relaxing in VRC">
         </div>
         
 
