@@ -141,7 +141,7 @@
 
 <style>
 body {
-    background: url(../images/bg.gif);
+    background: url(/images/bg.gif);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -235,3 +235,4 @@ img {
 
 
 </style>
+
