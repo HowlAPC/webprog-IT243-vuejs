@@ -12,5 +12,5 @@ app.component('food-item', FoodItem)
 
 app.component('comment-form', CommentForm)
 app.component('comment', Comment)
-app.mount('#app')
 app.component('rest-api', RestApi)
+app.mount('#app')
